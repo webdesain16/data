@@ -2,7 +2,7 @@
 
 ## Contest hosted by Web Design 16
 
-1. [WD Mock Contest](_posts/mock-contest-2020-2021.md)
+1. [WD Mock Contest](editorials/mock-contest-2020-2021.html)
 2. [WD Educational Contest 1]()
 3. [WD Educational Contest 2]()
 4. [WD Educational Contest 3]()
