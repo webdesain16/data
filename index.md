@@ -2,7 +2,7 @@
 
 ## Contest hosted by Web Design 16
 
-1. [WD Mock Contest]()
+1. [WD Mock Contest](https://github.com/webdesain16/webdesain16.github.io/blob/main/editorials/mock%20contest%202020-2021.md)
 2. [WD Educational Contest 1]()
 3. [WD Educational Contest 2]()
 4. [WD Educational Contest 3]()
