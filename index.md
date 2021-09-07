@@ -2,9 +2,9 @@
 
 ## Contest hosted by Web Design 16
 
-1. [WD Mock Contest](editorials/mock-contest-2020-2021.html)
-2. [WD Educational Contest 1]()
-3. [WD Educational Contest 2]()
+1. [WD Mock Contest](editorials/2020_mock_contest.html)
+2. [WD Educational Contest 1](editorials/2020_WD_EDC_1.html)
+3. [WD Educational Contest 2](2020_WD_EDC_2.html)
 4. [WD Educational Contest 3]()
 5. [WEB DESIGN UNITING MEMBER BECOME ONE (WUMBO)]()
 
