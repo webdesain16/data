@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Welcome to Web Design Programming Division's Website!
 
-You can use the [editor on GitHub](https://github.com/webdesain16/webdesain16.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Contest hosted by Web Design 16
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. [WD Mock Contest]()
+2. [WD Educational Contest 1]()
+3. [WD Educational Contest 2]()
+4. [WD Educational Contest 3]()
+5. [WEB DESIGN UNITING MEMBER BECOME ONE (WUMBO)]()
 
-### Markdown
+## Upsolve Problems
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. [WD DIV PROGRAMMING PROBLEMSET #1](href="https://vjudge.net/contest/403839)
 
-```markdown
-Syntax highlighted code block
+   <details>
+     <summary>Password</summary>
+     <pre> PracticeMakesPerfect</pre>
+   </details>
 
-# Header 1
-## Header 2
-### Header 3
+2. [WD DIV PROGRAMMING PROBLEMSET #2](https://vjudge.net/contest/424747)
 
-- Bulleted
-- List
+   <details>
+    <summary>Password</summary>
+    <pre> PracticeMakesPerfect</pre>
+   </details> 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/webdesain16/webdesain16.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<hr>
+<p>ID : soal - soal pada problemset ini ditujukan hanya untuk kepentingan pendidikan saja</p>
+<p>EN : problems that are in the problemset are educational purpose only</p>
