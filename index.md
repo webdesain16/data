@@ -10,7 +10,7 @@
 
 ## Upsolve Problems
 
-1. [WD DIV PROGRAMMING PROBLEMSET #1](href="https://vjudge.net/contest/403839)
+1. [WD DIV PROGRAMMING PROBLEMSET #1](https://vjudge.net/contest/403839)
 
    <details>
      <summary>Password</summary>
